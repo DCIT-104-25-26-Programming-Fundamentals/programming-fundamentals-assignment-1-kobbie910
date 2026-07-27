@@ -14,7 +14,7 @@
 # - Read an M x N matrix from the user.
 # - Compute and display its transpose (rows become columns, columns become rows).
 #
-# Example (2 x 3 input):
+# Example (2 x 3 input):2
 #
 #   Original Matrix:      Transposed Matrix:
 #   1  2  3               1  4
@@ -102,7 +102,6 @@ def printMatrix(matrix, rows, cols):
         print()
 
 
-# Main block
 print("Matrix Operations Menu:")
 print("1. Transpose a Matrix")
 print("2. Add Two Matrices")
