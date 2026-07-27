@@ -90,7 +90,6 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 
-# Feature 1 — Add a student
 def addStudent(students):
     name = input("Student name: ")
     studentId = int(input("Student ID: "))
